@@ -24,15 +24,17 @@ Visualize the performance of different models using bar plots.
 
 Preprocess and vectorize new input messages.
 Predict the class (spam or ham) of new messages using the best performing model.
+
 ## Getting Started
 ## Prerequisites
 
-Python 3.x
-Required libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, nltk, xgboost
+Python 3.x.
+Required libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, nltk, xgboost.
 Ensure you have the dataset (spam.csv) in the project directory. You can download the dataset from kaggle directly or with the below link.
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 #### Project Structure
+
 spam.csv: Dataset containing SMS messages labeled as 'ham' or 'spam'.
 spam_detection.py: Main script containing the code for data preprocessing, model training, evaluation, and prediction.
 
