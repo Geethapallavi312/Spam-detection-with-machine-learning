@@ -35,7 +35,8 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 #### Project Structure
 
-spam.csv: Dataset containing SMS messages labeled as 'ham' or 'spam'./n
+spam.csv: Dataset containing SMS messages labeled as 'ham' or 'spam'.
+
 spam_detection.ipynb: Main script containing the code for data preprocessing, model training, evaluation, and prediction.
 
 ## Results
