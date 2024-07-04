@@ -35,8 +35,8 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 #### Project Structure
 
-spam.csv: Dataset containing SMS messages labeled as 'ham' or 'spam'.
-spam_detection.py: Main script containing the code for data preprocessing, model training, evaluation, and prediction.
+spam.csv: Dataset containing SMS messages labeled as 'ham' or 'spam'./n
+spam_detection.ipynb: Main script containing the code for data preprocessing, model training, evaluation, and prediction.
 
 ## Results
 The best performing model in this project was the Extra Trees Classifier, which achieved the highest accuracy on the test set.
