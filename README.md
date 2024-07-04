@@ -33,7 +33,7 @@ Required libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, nltk, xgbo
 Ensure you have the dataset (spam.csv) in the project directory. You can download the dataset from kaggle directly or with the below link.
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-#### Project Structure
+### Project Structure
 
 spam.csv: Dataset containing SMS messages labeled as 'ham' or 'spam'.
 
